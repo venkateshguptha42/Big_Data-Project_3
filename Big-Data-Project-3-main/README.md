@@ -26,11 +26,13 @@
 ![alt text](https://databricks.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-29-at-10.11.42-PM.png)
 
 ## ROLES AND RESPONSIBILITIES
-* Streamed the data using Rest API.
-* Implied Data Streaming and Spark-Submit job.
-* Performed many Use cases.
-* Visualized the Data using Seaborn and Matplotlib.
-* Worked on EV stocks use cases.
-* Deployed whole project over the GitHub.
+1.Streaming the data using Rest API.
+2.Integrated the kafka with spark streaming
+3.Performing the spark submit job.
+4.Implementation of various use cases.
+5.Performing use cases on EV stocks. 
+6.Integrated the pyspark with jupyter notebook for visualization
+7.Visualization of the data using Matploitlibrary and Seaborn.
+8.Deployment of the project on Github.
 
 
